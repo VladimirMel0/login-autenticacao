@@ -1,6 +1,4 @@
 <h1>Sistema de login com autenticação</h1>
-.
-![_C__Users_Vladimir_Documents_projetos_login2_index html (1)](https://user-images.githubusercontent.com/88683191/155923835-b0dd190b-4844-4c7f-bcbd-ee8511dea4c5.png)
 
 Nesse projeto fiz uma tela de login e uma tela de cadastro:
 ![_C__Users_Vladimir_Documents_projetos_login2_cadastro html](https://user-images.githubusercontent.com/88683191/155923470-482658a3-aedb-437d-ae00-4443f3304b2e.png)
